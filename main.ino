@@ -1,3 +1,8 @@
+/*
+  -This software was written by Yann Kabambi for public use
+  -The software comes AS IS, and I am not responsible for any damages that may occur when using this software
+*/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
